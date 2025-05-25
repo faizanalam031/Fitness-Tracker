@@ -1,5 +1,6 @@
 -- UserName For Admin is -> Admin
---passwor For Admin is -> Admin1234
+-- Passwor FOR Admin is -> Admin1234
+
 CREATE DATABASE fitness_tracker;
 USE fitness_tracker;
 
