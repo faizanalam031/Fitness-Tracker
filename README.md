@@ -97,5 +97,5 @@ The application supports two main user types:
 
 ## Copyright
 
-2025 faizanalamo31. All rights reserved.  
+2025 faizanalam031. All rights reserved.  
 No part of this document may be reproduced or distributed without prior written permission.
